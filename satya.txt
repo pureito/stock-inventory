@@ -3,4 +3,6 @@
  am on second line`
 
 
+gitignore file ready to be adde
 
+testingd
